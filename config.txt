@@ -1,0 +1,26 @@
+# MODEL
+
+| Hyperparameter        | Value             |
+|-----------------------|-------------------|
+| Number of layers      | 2 hidden layers   |
+| Neurons each layer    | 512, 512          |
+| Activation function   | ReLU              |
+| Optimizer             | SGD               |
+| Weight decay          | 0.001             |
+| Momentum              | 0                 |
+| Learning rate init    | 0.1               |
+| Learning rate decay   | 0.1               |
+| Decay step            | 30 epochs         |
+| Epochs                | 100               |
+| Batch size            | 128               |
+| Loss function         | Cross-entropy     |
+| Validation fraction   | 0.1               |
+| Early stopping        | True              |
+| Stop from epoch       | 60                |
+
+
+# DEVICE
+(gõ dxdiag rồi ghi lại mấy thông tin bên máy M lại trong đây)
+CPU:
+RAM:
+Graphic:
