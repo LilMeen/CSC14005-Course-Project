@@ -20,7 +20,5 @@
 
 
 # DEVICE
-(gõ dxdiag rồi ghi lại mấy thông tin bên máy M lại trong đây)
-CPU:
-RAM:
-Graphic:
+CPU: AMD Ryzen 7 5800H with Radeon Graphics (16 CPUs), 3.2 GHz
+RAM: 8GB
